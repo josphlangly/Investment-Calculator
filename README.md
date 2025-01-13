@@ -1,5 +1,7 @@
 # Airgead Banking Investment Calculator
 
+[x]
+
 ### Overview
 The **Airgead Banking Investment Calculator** is a C++ program designed to help users calculate projected returns on their investments over a given number of years. The program provides two types of reports:
 1. Investment growth **without monthly deposits**.
